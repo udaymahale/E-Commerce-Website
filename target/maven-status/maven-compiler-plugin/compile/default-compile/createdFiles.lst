@@ -1,0 +1,14 @@
+com\learn\mycartcopy\entities\Product.class
+com\learn\mycartcopy\entities\Category.class
+com\learn\mycartcopy\JAXRSConfiguration.class
+com\learn\mycartcopy\dao\CategoryDao.class
+com\learn\mycartcopy\helper\FactoryProvider.class
+com\learn\mycartcopy\servlets\LogoutServlet.class
+com\learn\mycartcopy\resources\JavaEE8Resource.class
+com\learn\mycartcopy\entities\User.class
+com\learn\mycartcopy\dao\UserDao.class
+com\learn\mycartcopy\servlets\RegisterServlet.class
+com\learn\mycartcopy\dao\ProductDao.class
+com\learn\mycartcopy\servlets\LoginServlet.class
+com\learn\mycartcopy\servlets\ProductOperationServlet.class
+com\learn\mycartcopy\helper\Helper.class
